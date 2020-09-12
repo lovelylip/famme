@@ -1,0 +1,60 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.famme",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "famme",
+    "packageName": "com.famme",
+    "packageFolder": "com/famme",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "cassandra",
+    "devDatabaseType": "cassandra",
+    "prodDatabaseType": "cassandra",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDUzZTYzOWVkZjVjODc4Yzc2Njg1M2FlYjk0NWViNDJiNGI2Y2FmMWE3NWY4N2Y4ODI3MmY0NWZlYTRjYWUzZGJlMThhYTQ3NWIyZmU1ODNmYWNkMDJlYTJlOGJkZTVmNjZlOGFlN2Q5NWJkZjY0N2I2NjIyY2RhOTExNDg3ZjU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "cyborg",
+    "clientThemeVariant": "dark",
+    "creationTimestamp": 1599903131972,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [
+      {
+        "name": "generator-jhipster-primeng",
+        "version": "9.1.0"
+      },
+      {
+        "name": "generator-jhipster-ngx-charts",
+        "version": "1.0.3"
+      },
+      {
+        "name": "generator-jhipster-file-handling",
+        "version": "1.1.1"
+      },
+      {
+        "name": "generator-jhipster-fullcalendar",
+        "version": "0.0.4"
+      }
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "vi"],
+    "blueprints": []
+  }
+}
