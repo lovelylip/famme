@@ -1,0 +1,26 @@
+{
+  "fluentMethods": true,
+  "clientRootFolder": "",
+  "relationships": [],
+  "fields": [
+    {
+      "fieldName": "file",
+      "fieldType": "ByteBuffer",
+      "fieldTypeBlobContent": "image"
+    },
+    {
+      "fieldName": "image",
+      "fieldType": "ByteBuffer",
+      "fieldTypeBlobContent": "any"
+    }
+  ],
+  "changelogDate": "20200912105333",
+  "dto": "mapstruct",
+  "searchEngine": false,
+  "service": "serviceImpl",
+  "entityTableName": "upload",
+  "databaseType": "cassandra",
+  "readOnly": false,
+  "jpaMetamodelFiltering": false,
+  "pagination": "no"
+}

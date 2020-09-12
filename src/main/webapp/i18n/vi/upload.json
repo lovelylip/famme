@@ -1,0 +1,23 @@
+{
+  "fammeApp": {
+    "upload": {
+      "home": {
+        "title": "Uploads",
+        "createLabel": "Thêm mới một Upload",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Upload",
+        "notFound": "No Uploads found"
+      },
+      "created": "Một Upload mới được tạo với định danh {{ param }}",
+      "updated": "Một Upload cập nhật với định danh {{ param }}",
+      "deleted": "Một Upload đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Upload {{ id }}?"
+      },
+      "detail": {
+        "title": "Upload"
+      },
+      "file": "File",
+      "image": "Image"
+    }
+  }
+}
